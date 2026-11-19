@@ -1,5 +1,7 @@
 # Tech Challenge - Fase 1 - Diagnóstico de Câncer de Mama com Machine Learning
 
+> **English summary.** Academic project for the FIAP postgraduate programme in AI for Developers (phase 1). It builds the base of a diagnosis-support system for a hospital: from the measurements of an exam, a model predicts whether a breast tumour is benign or malignant, to speed up triage while the doctor keeps the final word. It is a binary classification problem on the public Breast Cancer Wisconsin (Diagnostic) dataset (569 records, 30 numeric features), comparing Logistic Regression, Random Forest and KNN. The full analysis is in `Tech_Challenge_B.ipynb`. The rest of this README is in Portuguese.
+
 Esse projeto é a minha entrega do Tech Challenge da Fase 1 da pós. A ideia foi construir a base de um sistema de apoio ao diagnóstico para um hospital: a partir dos dados de um exame, o modelo tenta prever se um tumor de mama é **benigno** ou **maligno**, ajudando na triagem e dando uma informação a mais para o médico (que sempre tem a palavra final).
 
 ## O problema
